@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+.cite_header{
+    text-align: center;
+    color: #fff;
+}
+.header_menu{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+}
+.menu_names{
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+}
+.menus{
+    display: inline-block;
+}
+.cite_logo{
+    vertical-align: middle;
+    color: #fff;
+}
